@@ -2,9 +2,11 @@
 
 NES game that is also a Discord chat client
 
-**_Discord for NES was created by Vi Grey Vi Grey (https://vigrey.com) <vi@vigrey.com> and is licensed under the BSD 2-Clause License._**
+**_Discord for NES was created by Vi Grey (https://vigrey.com) <vi@vigrey.com> and is licensed under the BSD 2-Clause License._**
 
 ### Description:
+**This NES ROM has yet to be tested with a TAS replay device.  This notice will be removed once it has been successfully tested with a TAS replay device**
+
 This is an NROM NES ROM that is also a Discord chat client that connects to Discord using a TAS replay device like TASBot.
 
 ### Platforms:

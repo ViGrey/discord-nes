@@ -23,7 +23,7 @@
 ; OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 ; SUCH DAMAGE.
 
-; Version 0.0.1
+; Version 0.0.2
 
   .db "NES", $1A
   .db $02

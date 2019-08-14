@@ -45,5 +45,4 @@ all:
 	mv new.zip ../bin/$(PKG_NAME).nes; \
 
 clean:
-	rm -rf -- $(CURRENTDIR)bin; \
 	rm -rf -- $(CURRENTDIR)build; \
